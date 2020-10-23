@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SRF_1_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/srf1_hd.png" group-title="Switzerland",SRF 1
+https://streams.wilmaa.com/m3u8/get?channelId=sf_1_original_hd
+#
+#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF_zwei_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/srf2_hd.png" group-title="Switzerland",SRF 2
+https://streams.wilmaa.com/m3u8/get?channelId=sf_2_original_hd
+#
+#EXTINF:-1 tvg-id="SRFinfo.ch" tvg-name="SRF_info_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/srf_info.png" group-title="Switzerland",SRF info
+https://streams.wilmaa.com/m3u8/get?channelId=sf_info_hd
+#
+#EXTINF:-1 tvg-id="3plus.ch" tvg-name="3+_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/3plus_hd.png" group-title="Switzerland",3+
+https://streams.wilmaa.com/m3u8/get?channelId=3_plus_hd
+#
+#EXTINF:-1 tvg-id="DMAX.ch" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/dmax.png" group-title="German",DMAX
+https://streams.wilmaa.com/m3u8/get?channelId=dmax
+#
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das_Erste_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/daserste_hd.png" group-title="German",Das Erste
+https://streams.wilmaa.com/m3u8/get?channelId=ard_hd
+#
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/zdf_hd.png" group-title="German",ZDF
+https://streams.wilmaa.com/m3u8/get?channelId=zdf_hd
+#
+#EXTINF:-1 tvg-id="RTL.ch" tvg-name="RTL_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/rtl_hd.png" group-title="German",RTL
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_ch_hd
+#
+#EXTINF:-1 tvg-id="Sat1.ch" tvg-name="Sat.1_Schweiz_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/sat1_hd.png" group-title="German",SAT.1
+https://streams.wilmaa.com/m3u8/get?channelId=sat_1_hd
+#
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1_Gold_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/sat1_gold.png" group-title="German",SAT.1 Gold
+https://streams.wilmaa.com/m3u8/get?channelId=sat_1_gold
+#
+#EXTINF:-1 tvg-id="Pro7.ch" tvg-name="Pro7_Schweiz_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/pro7_hd.png" group-title="German",ProSieben
+https://streams.wilmaa.com/m3u8/get?channelId=pro7_ch_hd
+#
+#EXTINF:-1 tvg-id="ProSiebenMaxx.ch" tvg-name="ProSieben_MAXX_Schweiz_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/7maxx.png" group-title="German",ProSieben MAXX
+https://streams.wilmaa.com/m3u8/get?channelId=pro7_maxx
+#
+#EXTINF:-1 tvg-id="Vox.ch" tvg-name="VOX_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/vox_hd.png" group-title="German",VOX
+https://streams.wilmaa.com/m3u8/get?channelId=vox_hd
+#
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/arte_hd.png" group-title="German",ARTE
+https://streams.wilmaa.com/m3u8/get?channelId=arte_de_hd
+#
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3Sat_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/3sat_hd.png" group-title="German",3sat
+https://streams.wilmaa.com/m3u8/get?channelId=3_sat_hd
+#
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF1_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/orf1_hd.png" group-title="Austria",ORF 1
+https://streams.wilmaa.com/m3u8/get?channelId=orf_1_hd
+#
+#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF2_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/orf2_hd.png" group-title="Austria",ORF 2
+https://streams.wilmaa.com/m3u8/get?channelId=orf_2_hd
+#
+#EXTINF:-1 tvg-id="Kabel.ch" tvg-name="Kabel_Eins_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/kabel1_hd.png" group-title="German",Kabel Eins
+https://streams.wilmaa.com/m3u8/get?channelId=kabel_1_hd
+#
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/zdf_neo_hd.png" group-title="German",ZDF Neo
+https://streams.wilmaa.com/m3u8/get?channelId=zdf_neo_hd
+#
+#EXTINF:-1 tvg-id="Sixx.ch" tvg-name="Sixx_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/sixx_hd.png" group-title="German",Sixx
+https://streams.wilmaa.com/m3u8/get?channelId=sixx_hd
+#
+#EXTINF:-1 tvg-id="SuperRTL.ch" tvg-name="Super_RTL_Schweiz_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/superrtl_hd.png" group-title="German",SUPER RTL
+https://streams.wilmaa.com/m3u8/get?channelId=super_rtl_hd
+#
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney_Channel" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/disney_channel.png" group-title="German",Disney Channel
+https://streams.wilmaa.com/m3u8/get?channelId=disney_channel_de
+#
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="Sport1_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/sport1.png" group-title="German",Sport1
+https://streams.wilmaa.com/m3u8/get?channelId=sport_1
+#
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport_1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/eurosport.png" group-title="German",Eurosport
+https://streams.wilmaa.com/m3u8/get?channelId=eurosport
+#
+#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky_Sport_News_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/sky_sport_news_hd.png" group-title="German",Sky Sport News
+https://streams.wilmaa.com/m3u8/get?channelId=sky_sport_news_de
+#
+#EXTINF:-1 tvg-id="BBC1London.uk" tvg-name="BBC_One_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/bbc_one_hd.png" group-title="UnitedKingdom",BBC One
+https://streams.wilmaa.com/m3u8/get?channelId=bbc_1_hd
+#
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC_Two_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/bbc_two_hd.png" group-title="UnitedKingdom",BBC Two
+https://streams.wilmaa.com/m3u8/get?channelId=bbc_2_hd
+#
+#EXTINF:-1 tvg-id="BBCWorldNews.nws" tvg-name="BBC_World_News_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/bbc_worldnews.png" group-title="UnitedKingdom",BBC World News
+https://streams.wilmaa.com/m3u8/get?channelId=bbc_world_news
+#
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel_4_HD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/ufankhau/kodi-support/main/logos/tv/channel4_hd.png" group-title="UnitedKingdom",Channel 4
+https://streams.wilmaa.com/m3u8/get?channelId=channel_4_hd
